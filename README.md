@@ -25,6 +25,5 @@ Son of [Kame](https://github.com/bqlabs/kame)
 
 # Other
 
-<img src="doc/images/bq-logo-human-right-technology.png" width="200" align="center">
 
 Sponsored by BQ till march 2016
